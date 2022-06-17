@@ -1,4 +1,4 @@
-# My Project
+# Synapse Serverless SQL Management
 
 ![banner](https://BMeyn.github.io/temp_python_pkg//docs/images/project-banner.png)
 
@@ -11,17 +11,17 @@
 
 ## Features:
 
-  - Feature 1
+  - Create Serverless databases
 
-  - Feature 2
+  - Create Views
 
-  - Feature 3
+  - Create external data sources, tables and file formats
 
 
 ## Install:
 
 ```
-pip install BMeyn
+pip install synapse-sqlserverless-mgmt
 ```
 
 ## Usage:
